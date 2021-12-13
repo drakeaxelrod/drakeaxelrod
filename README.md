@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Drake-Axelrod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drakeaxelrod/)](https://www.linkedin.com/in/drakeaxelrod/)
+[![Linkedin Badge](https://img.shields.io/badge/-Drake_Axelrod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drakeaxelrod/)](https://www.linkedin.com/in/drakeaxelrod/)
 [![Hey Badge](https://img.shields.io/badge/-drake@draxel.io-black?style=flat-square&logo=Hey&logoColor=white&link=mailto:drake@draxel.io)](mailto:drake@draxel.io)
