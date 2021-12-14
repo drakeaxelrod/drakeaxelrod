@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Drake Axelrod :male_sign: he/him 
+
+![Terminal Gif]("resources/terminal-banner.gif")
+# Drake Axelrod :male_sign: he/him 
 <a href = "https://www.draxel.io"><img height="20px" width="20px" src="https://www.draxel.io/flavicons/favicon.ico" /></a>&numsp;<a href = "mailto: drake@draxel.io"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>&numsp;<a href = "https://www.linkedin.com/in/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a>&numsp;<a href = "https://www.twitter.com/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>&numsp;<a href = "https://discordapp.com/users/549704894391517324"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" /></a> 
 
 :us: English, :sweden: Swedish - Native Speaker 
@@ -77,4 +79,3 @@ I am a Software Engineering student at the University of Gothenburg. I am eager 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
-
