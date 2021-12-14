@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Terminal Gif]("resources/terminal-banner.gif")
+![Terminal Gif]("./resources/terminal-banner.gif")
 # Drake Axelrod :male_sign: he/him 
 <a href = "https://www.draxel.io"><img height="20px" width="20px" src="https://www.draxel.io/flavicons/favicon.ico" /></a>&numsp;<a href = "mailto: drake@draxel.io"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>&numsp;<a href = "https://www.linkedin.com/in/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a>&numsp;<a href = "https://www.twitter.com/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>&numsp;<a href = "https://discordapp.com/users/549704894391517324"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" /></a> 
 
