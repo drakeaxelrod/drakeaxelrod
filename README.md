@@ -5,8 +5,11 @@
 
 I am a Software Engineering student at the University of Gothenburg. I am eager to secure challenging roles in the Software industry, particularly in Penetration Testing and Cyber-security.
 
-<a href="https://github.com/DrakeAxelrod"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&show_icons=true&count_private=true&theme=onedark" /></a>
+![DrakeAxelrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&show_icons=true&count_private=true&count_private=true&line_height=47&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeAxelrod&langs_count=6&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrakeAxelrod&repo=json-resume-service)](https://github.com/DrakeAxelrod/json-resume-service)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrakeAxelrod&repo=webdevelopment-project)](https://github.com/DrakeAxelrod/webdevelopment-project) -->
 
 | Operating Systems | Development | Coding Languages | Frameworks |
 |-|-|-|-|
