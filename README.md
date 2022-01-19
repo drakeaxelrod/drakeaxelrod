@@ -5,7 +5,7 @@
 
 I am a Software Engineering student at the University of Gothenburg. I am eager to secure challenging roles in the Software industry, particularly in Penetration Testing and Cyber-security.
 
-![DrakeAxelrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&show_icons=true&count_private=true&line_height=30&theme=tokyonight)
+![DrakeAxelrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeAxelrod&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
