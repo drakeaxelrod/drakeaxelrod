@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://wakatime.com/@draxel"><img alt="" src="https://wakatime.com/badge/user/2e691040-ef42-42f0-bba3-2079a6d4ceee.svg"></a>
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/DrakeAxelrod"></a>
+</p>
 <h1 align='center'>Drake Axelrod :male_sign: he/him </h1>
 <p align='center'>
 <a href = "https://www.draxel.io"><img height="20px" width="20px" src="https://www.draxel.io/favicons/favicon.svg" /></a>&numsp;<a href = "mailto: drake@draxel.io"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>&numsp;<a href = "https://www.linkedin.com/in/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a>&numsp;<a href = "https://www.twitter.com/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>&numsp;<a href = "https://discordapp.com/users/549704894391517324"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" /></a> 
