@@ -8,7 +8,7 @@
 I am a Software Engineering student at the University of Gothenburg. I am eager to secure challenging roles in the Software industry, particularly in Penetration Testing and Cyber-security.
 
 <div align='center'>
-<img src="https://raw.githubusercontent.com/DrakeAxelrod/terminal-for-github-profile-readme/master/github_stats.svg"></img>
+<img src="https://raw.githubusercontent.com/DrakeAxelrod/terminal-for-github-profile-readme/main/github_stats.svg"></img>
 </div>
 <!-- ![DrakeAxelrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight)
  -->
