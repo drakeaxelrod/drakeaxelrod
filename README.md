@@ -1,17 +1,21 @@
-# Drake Axelrod :male_sign: he/him 
+<h1 align='center'>Drake Axelrod :male_sign: he/him </h1>
+<p align='center'>
 <a href = "https://www.draxel.io"><img height="20px" width="20px" src="https://www.draxel.io/favicons/favicon.svg" /></a>&numsp;<a href = "mailto: drake@draxel.io"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>&numsp;<a href = "https://www.linkedin.com/in/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a>&numsp;<a href = "https://www.twitter.com/drakeaxelrod/"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>&numsp;<a href = "https://discordapp.com/users/549704894391517324"><img height="20px" width="20px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" /></a> 
+</p>
 
-:us: English, :sweden: Swedish - Native Speaker 
+<p align='center'>:us: English, :sweden: Swedish - Native Speaker </p>
 
 I am a Software Engineering student at the University of Gothenburg. I am eager to secure challenging roles in the Software industry, particularly in Penetration Testing and Cyber-security.
 
-![DrakeAxelrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeAxelrod&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+<img src="https://raw.githubusercontent.com/DrakeAxelrod/terminal-for-github-profile-readme/master/github_stats.svg"></img>
+</div>
+<!-- ![DrakeAxelrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeAxelrod&&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight)
+ -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeAxelrod&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrakeAxelrod&repo=json-resume-service)](https://github.com/DrakeAxelrod/json-resume-service)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrakeAxelrod&repo=webdevelopment-project)](https://github.com/DrakeAxelrod/webdevelopment-project) -->
+<br></br>
 
 | Operating Systems | Development | Coding Languages | Frameworks |
 |-|-|-|-|
