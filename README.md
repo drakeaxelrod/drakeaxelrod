@@ -33,7 +33,7 @@ foreground        #abb2bf
 <img
   alt="cover image"
   width="100%"
-  src="assets/coding_inverted.png"
+  src="assets/webp/3.webp"
 />
 
 <p align="center" float="left">
@@ -45,7 +45,7 @@ foreground        #abb2bf
   </a>
 </p>
 
-<font color="#4aa5f0"><strong>About me,</strong></font>
+<strong><font color="#4aa5f0">About me,</font></strong>
 I'm a penetration tester who is driven by a passion for learning systems. With a strong affinity for physical activity, I find balance by engaging in various sports and outdoor pursuits. Additionally, I enjoy developing various side projects, which are often inspired by my interests in various aspects of technology. I have a passion for optimization and automation and am always looking for ways to improve my workflow.
 </p>
 <p align="right">
