@@ -36,16 +36,17 @@ foreground        #abb2bf
   src="assets/coding_inverted.png"
 />
 
-<h1 align="center" float="left">
-  <a href="https://draxel.io" target="_blank" rel="noopener noreferrer">
+<p align="center" float="left">
+  <a align="center" float="left" href="https://draxel.io" target="_blank" rel="noopener noreferrer">
   <img
     src="assets/svgs/name.svg"
     alt="Drake Axelrod"
   />
   </a>
-</h1>
+</p>
 
-$\color{#4aa5f0}\textbf{About\ me,}$ A penetration tester who is driven by a passion for learning systems. With a strong affinity for physical activity, I find balance by engaging in various sports and outdoor pursuits. Additionally, I enjoy developing various side projects, which are often inspired by my interests in various aspects of technology. I have a passion for optimization and automation and am always looking for ways to improve my workflow.
+<font color="#4aa5f0"><strong>About me,</strong></font>
+I'm a penetration tester who is driven by a passion for learning systems. With a strong affinity for physical activity, I find balance by engaging in various sports and outdoor pursuits. Additionally, I enjoy developing various side projects, which are often inspired by my interests in various aspects of technology. I have a passion for optimization and automation and am always looking for ways to improve my workflow.
 </p>
 <p align="right">
   <a href="https://wakatime.com/@draxel"><img alt="" src="https://wakatime.com/badge/user/2e691040-ef42-42f0-bba3-2079a6d4ceee.svg"></a>
