@@ -155,8 +155,7 @@ $\color{#4aa5f0}\textbf{About\ me,}$ A penetration tester who is driven by a pas
 
 <img width="30em" src="https://skillicons.dev/icons?i=linux" alt="plinux" />
 <img width="30em" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macos" />
-<img width="30em" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png
-" alt="windows" />
+<img width="30em" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" />
 <img width="30em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" />
 <img width="30em" src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" alt="kali" />
 <img width="30em" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" />
