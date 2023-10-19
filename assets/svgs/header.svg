@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="intro" viewbox="0 0 200 100">
+  <foreignObject>
+    <p>hello</p>
+  </foreignObject>
+  <text>hello</text>
+</svg>
