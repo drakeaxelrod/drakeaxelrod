@@ -69,6 +69,99 @@ I'm a penetration tester who is driven by a passion for learning systems. With a
 <!-- https://github.com/marwin1991/profile-technology-icons/blob/main/README.md -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
+<!-- <img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" />
+<img height="21px" width="21px" alt="react"
+src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" />
+  <img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/terminal.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/gopher.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/haskell-icon.svg" />
+
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/hacker-one.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/htb-icon.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/mariadb.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" />
+
+
+<dl>
+  <dt>Web Applications</dt>
+</dl>
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" />
+<img height="21px" width="21px" alt="vue"
+  src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" />
+<img height="21px" width="21px" alt="nextjs"
+  src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" />
+<img height="21px" width="21px" alt="vite"
+  src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" />
+<img height="21px" width="21px" alt="nuxtjs"
+  src="https://github.com/get-icon/geticon/raw/master/icons/docusaurus.svg" />
+<img height="21px" width="21px" alt="svelte"
+  src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" />
+<img height="21px" width="21px" alt="nuxtjs"
+  src="https://github.com/get-icon/geticon/raw/master/icons/nuxt-icon.svg" />
+<img height="21px" width="21px" alt="nuxtjs"
+  src="https://github.com/get-icon/geticon/raw/master/icons/gatsby.svg" />
+<img height="21px" width="21px" alt="typescript"
+  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" />
+<img height="21px" width="21px" alt="javascript"
+  src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" />
+<img height="21px" width="21px" alt="nodejs"
+  src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" />
+<img height="21px" width="21px" alt="typescript"
+  src="https://github.com/get-icon/geticon/raw/master/icons/chakra-icon.svg" />
+<img height="21px" width="21px" alt="prettier"
+  src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" />
+<img height="21px" width="21px" alt="eslint"
+  src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" />
+<img height="21px" width="21px" alt="html5"
+  src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" />
+<img height="21px" width="21px" alt="css3"
+  src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" />
+<img height="21px" width="21px" alt="sass"
+  src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" />
+<img height="21px" width="21px" alt="tailwindcss"
+  src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" />
+
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" />
+
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/fedora.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/centos-icon.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/apple.svg" />
+<img height="21px" width="21px" alt="react"
+  src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" /> -->
+
+
+
 <table bgcolor="#23272e">
 <td colspan="3">
 <center align="center"><font color="#de73ff">Tech Stack</th></center>
