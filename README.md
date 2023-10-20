@@ -23,7 +23,7 @@ foreground        #abb2bf
 
 ![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only) -->
 
-
+<!-- <img src="assets/svgs/full.svg" /> -->
 
 <p align="right">
   <img
