@@ -48,6 +48,7 @@ foreground        #abb2bf
 <strong><font color="#4aa5f0">About me,</font></strong>
 I'm a penetration tester who is driven by a passion for learning systems. With a strong affinity for physical activity, I find balance by engaging in various sports and outdoor pursuits. Additionally, I enjoy developing various side projects, which are often inspired by my interests in various aspects of technology. I have a passion for optimization and automation and am always looking for ways to improve my workflow.
 </p>
+
 <p align="right">
   <a href="https://wakatime.com/@draxel"><img alt="" src="https://wakatime.com/badge/user/2e691040-ef42-42f0-bba3-2079a6d4ceee.svg"></a>
 </p>
