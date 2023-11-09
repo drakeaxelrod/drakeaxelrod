@@ -58,7 +58,8 @@ I'm a penetration tester who is driven by a passion for learning systems. With a
   <img
     width="50%"
     height="100%"
-    src="https://github-readme-stats.vercel.app/api?username=drakeaxelrod&show_icons=true&hide=issues,contribs&&show=reviews&card_width=510px&rank_icon=default&include_all_commits=true&line_height=29&border_radius=0&hide_border=true&theme=onedark&bg_color=00000000" /><img
+    src="https://github-readme-stats.vercel.app/api?username=drakeaxelrod&show_icons=true&hide=issues,contribs&&show=reviews&card_width=510px&rank_icon=default&include_all_commits=true&line_height=29&border_radius=0&hide_border=true&theme=onedark&bg_color=000000" />
+  <img
     width="50%"
     height="100%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeaxelrod&card_width=510px&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&border_radius=0&hide_border=true&theme=onedark&bg_color=00000000" />
