@@ -37,7 +37,7 @@ foreground        #abb2bf
 />
 
 <p align="center" float="left">
-  <a align="center" float="left" href="https://draxel.io" target="_blank" rel="noopener noreferrer">
+  <a align="center" float="left" href="https://drakeaxelrod.com" target="_blank" rel="noopener noreferrer">
   <img
     src="assets/svgs/name.svg"
     alt="Drake Axelrod"
