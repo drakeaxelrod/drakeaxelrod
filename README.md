@@ -139,7 +139,9 @@ My name is Drake and I am cybersecurity professional specializing in offensive s
 />
 <!-- </div> -->
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](profile-3d-contrib/profile-night-rainbow.svg) -->
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="profile-3d-contrib" style="width: 100%" />
 
 <!-- ## <strong><span style="color: #4aa5f0">Experience & Skills</span></strong>
 
