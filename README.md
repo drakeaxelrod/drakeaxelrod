@@ -1,280 +1,202 @@
-<!-- Theme
-Black             #3f4451
-Blue              #4aa5f0
-BrightBlack       #4f5666
-BrightBlue        #4dc4ff
-BrightCyan        #4cd1e0
-BrightGreen       #a5e075
-BrightMagenta     #de73ff
-BrightRed         #ff616e
-BrightWhite       #e6e6e6
-BrightYellow      #f0a45d
-Cyan              #42b3c2
-Green             #8cc265
-Magenta           #c162de
-Red               #e05561
-White             #d7dae0
-Yellow            #d18f52
-background        #23272e
-border            #3e4452
-foreground        #abb2bf
--->
-<!-- ![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+<div align="center" style="display: flex; flex-direction: column;">
+  <div style="position: relative; width: 100%;">
+    <div style="position: absolute; top: 0; right: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none;">
+      <img src="/assets/webp/calc.webp" alt="Background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.2; border-radius: 0.5em;" />
+    </div>
+    <img src="/assets/svgs/hacker.svg" alt="Hacker" style="width: 100%; z-index: 100; position: relative; top: 0;" />
+    <a href="https://drakeaxelrod.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="/assets/svgs/name.svg"
+      alt="Drake Axelrod"
+      width="20px"
+      style="z-index: 100; position: relative; top: -2em; width: 30%;"
+    />
+    </a>
+  <img height="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff00&bg_color=23272e00&text_color=a5e075&langs_count=18&layout=donut-vertical&border_radius=15&hide_title=true" style="position: absolute; top: 0; right: 0; opacity: 1;" />
+  </div>
+  <div
+    style="margin: auto 0; width: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: start; position: absolute; z-index: 100; padding: 1em">
+    <a
+      href="https://www.linkedin.com/in/drakeaxelrod"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="text-decoration: none; color: black">
+        <picture >
+          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="LinkedIn" style="display: inline-block;" />
+        </picture>
+    </a>
+    <a
+      href="https://github.com/DrakeAxelrod"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="text-decoration: none; color: black">
+        <picture>
+          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="Github" style="display: inline-block;" />
+        </picture>
+    </a>
+    <a
+      href="https://wa.me/4242099756"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="text-decoration: none; color: black">
+        <picture>
+          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/WhatsApp_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/WhatsApp_black.png?raw=true" alt="WhatsApp" style="display: inline-block;" />
+        </picture>
+    </a>
+    <a
+      href="https://www.facebook.com/drakeaxelrod"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="text-decoration: none; color: black">
+        <picture>
+          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" alt="Facebook" style="display: inline-block;" />
+        </picture>
+    </a>
+    <a
+      href="https://www.instagram.com/drakeaxelrod"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="text-decoration: none; color: black">
+        <picture>
+          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png?raw=true" alt="Instagram" style="display: inline-block;" />
+        </picture>
+    </a>
+    <a
+      href="https://x.com/DrakeAxelrod"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="text-decoration: none; color: black">
+        <picture>
+          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true" alt="Twitter" style="display: inline-block;" />
+        </picture>
+    </a>
+  </div>
+</div>
 
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only) -->
+<br>
 
-<!-- <img src="assets/svgs/full.svg" /> -->
+## <strong><span style="color: #4aa5f0">About me</span></strong>
 
-<!-- <p align="right">
-  <img
-    src="https://visitcount.itsvg.in/api?id=DrakeAxelrod&icon=0)"
-  />
-</p> -->
-<p align="right">
-  <a href="https://wakatime.com/@draxel"><img alt="" src="https://wakatime.com/badge/user/2e691040-ef42-42f0-bba3-2079a6d4ceee.svg"></a>
+<p>
+My name is Drake and I am cybersecurity professional specializing in offensive security and vulnerability assessment. With a strong foundation in ethical hacking and software engineering, I identify and mitigate security risks across diverse environments, ensuring robust defenses against evolving cyber threats (you can get my resume <a href="https://github.com/drakeaxelrod/resume/raw/refs/heads/main/out/resume.pdf">here</a>).
 </p>
-<img
-  alt="cover image"
-  width="100%"
-  src="assets/webp/3.webp"
-/>
 
-<p align="center" float="left">
-  <a align="center" float="left" href="https://drakeaxelrod.com" target="_blank" rel="noopener noreferrer">
+<!-- <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff&bg_color=23272e&text_color=a5e075&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&border_radius=15" /> -->
+
+## <strong><span style="color: #4aa5f0">Github Statistics</span></strong>
+
+<div float="left" align="center" style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; border: 1px solid #de73ff; border-radius: 0.5em; padding: 1em;">
   <img
-    src="assets/svgs/name.svg"
-    alt="Drake Axelrod"
-  />
-  </a>
-</p>
-
-<strong><font color="#4aa5f0">About me,</font></strong>
-I'm a penetration tester who is driven by a passion for learning systems. With a strong affinity for physical activity, I find balance by engaging in various sports and outdoor pursuits. Additionally, I enjoy developing various side projects, which are often inspired by my interests in various aspects of technology. I have a passion for optimization and automation and am always looking for ways to improve my workflow. (you can get my resume <a href="https://github.com/drakeaxelrod/resume/raw/refs/heads/main/out/resume.pdf">here</a>)
-</p>
-
-<p align="center" float="left">
-  <img
-    width="50%"
     height="100%"
-    src="https://github-readme-stats.vercel.app/api?username=drakeaxelrod&show_icons=true&hide=issues,contribs&&show=reviews&card_width=510px&rank_icon=default&include_all_commits=true&line_height=29&border_radius=0&hide_border=true&theme=onedark&bg_color=000000" /><img
     width="50%"
+    src="https://github-readme-stats.vercel.app/api?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff00&bg_color=23272e00&text_color=a5e075&ring_color=4cd1e0&border_radius=15&locale=en&rank_icon=default&line_height=30&text_bold=true&number_format=long&hide_title=true"
+    alt="Drake Axelrod's GitHub Stats"
+  />
+  <img
     height="100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeaxelrod&card_width=510px&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&border_radius=0&hide_border=true&theme=onedark&bg_color=00000000" />
-</p>
+    width="50%"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=drakeaxelrod&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=de73ff00&stroke=de73ff&fire=ff616e&ring=4cd1e0&sideNums=a5e075&currStreakNum=a5e075&currStreakLabel=ff616e&sideLabels=4dc4ff&dates=f0a45d&border_radius=15"
+    alt="Drake Axelrod's GitHub Streak"
+  />
+</div>
 
+![](profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- <img
-  src="https://metrics.lecoq.io/DrakeAxelrod?template=terminal&base.header=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FStockholm"
-/> -->
-<!-- https://github.com/marwin1991/profile-technology-icons/blob/main/README.md -->
-<!-- https://readme-typing-svg.demolab.com/demo/ -->
+<!-- ## <strong><span style="color: #4aa5f0">Experience & Skills</span></strong>
 
-<!-- <img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" />
-<img height="21px" width="21px" alt="react"
-src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" />
-  <img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/terminal.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/gopher.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/haskell-icon.svg" />
+- Penetration Testing & Ethical Hacking: Assessing and fortifying web applications, APIs, networks, software, embedded systems, and Active Directory.
+- Security Research & Development: Award-winning researcher in secure web application development, with a published paper recognized for its contributions to improving software security. Continuously contributing to best security practices.
+- Certifications: CPTS (Certified Penetration Testing Specialist), CyberOps Associate (Cisco), CompTIA Network+.
+- Cloud & Network Security: Proficient in securing cloud infrastructures, analyzing network protocols, and mitigating attack surfaces.
+- Automation & Secure Software: Developing security tools in Rust and PowerShell, streamlining security workflows, and automating penetration testing methodologies. -->
 
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/hacker-one.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/htb-icon.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/mariadb.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" />
+## <strong><span style="color: #4aa5f0">Certifications</span></strong>
 
+<a href="https://academy.hackthebox.com/achievement/badge/ee14298d-de2e-11ef-864f-bea50ffe6cb4" target="_blank" alt="HTB Certified Penetration Testing Specialist">
+<img height="128" width="128" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="HTB Certified Penetration Testing Specialist" />
+</a>
 
-<dl>
-  <dt>Web Applications</dt>
-</dl>
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" />
-<img height="21px" width="21px" alt="vue"
-  src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" />
-<img height="21px" width="21px" alt="nextjs"
-  src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" />
-<img height="21px" width="21px" alt="vite"
-  src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" />
-<img height="21px" width="21px" alt="nuxtjs"
-  src="https://github.com/get-icon/geticon/raw/master/icons/docusaurus.svg" />
-<img height="21px" width="21px" alt="svelte"
-  src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" />
-<img height="21px" width="21px" alt="nuxtjs"
-  src="https://github.com/get-icon/geticon/raw/master/icons/nuxt-icon.svg" />
-<img height="21px" width="21px" alt="nuxtjs"
-  src="https://github.com/get-icon/geticon/raw/master/icons/gatsby.svg" />
-<img height="21px" width="21px" alt="typescript"
-  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" />
-<img height="21px" width="21px" alt="javascript"
-  src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" />
-<img height="21px" width="21px" alt="nodejs"
-  src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" />
-<img height="21px" width="21px" alt="typescript"
-  src="https://github.com/get-icon/geticon/raw/master/icons/chakra-icon.svg" />
-<img height="21px" width="21px" alt="prettier"
-  src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" />
-<img height="21px" width="21px" alt="eslint"
-  src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" />
-<img height="21px" width="21px" alt="html5"
-  src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" />
-<img height="21px" width="21px" alt="css3"
-  src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" />
-<img height="21px" width="21px" alt="sass"
-  src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" />
-<img height="21px" width="21px" alt="tailwindcss"
-  src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" />
-
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" />
-
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/fedora.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/centos-icon.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/apple.svg" />
-<img height="21px" width="21px" alt="react"
-  src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" /> -->
-
-
-
-<table bgcolor="#23272e">
-<td colspan="3">
-<center align="center"><font color="#de73ff">Tech Stack</th></center>
-</td>
-</th>
-<tr>
-<th>
-<center align="center"><font color="#f0a45d">Languages</th></center>
-</th>
-<th>
-<center align="center"><font color="#4dc4ff">Tools</th></center>
-</th>
-<th>
-<center align="center"><font color="#4cd1e0">Systems</th></center>
-</th>
-<!-- </tr> -->
-<tr>
-
-<td width="30%" height="100%">
-<br>
-<center>
-
-<img width="30em" src="https://skillicons.dev/icons?i=c" alt="c" />
-<img width="30em" src="https://skillicons.dev/icons?i=cpp" alt="cpp" />
-<img width="30em" src="https://skillicons.dev/icons?i=cs" alt="c-sharp" />
-<img width="30em" src="https://skillicons.dev/icons?i=cmake" alt="cmake" />
-<img width="30em" src="https://skillicons.dev/icons?i=go" alt="go" />
-<img width="30em" src="https://skillicons.dev/icons?i=rust" alt="rust" />
-<img width="30em" src="https://skillicons.dev/icons?i=haskell" alt="haskell" />
-<img width="30em" src="https://skillicons.dev/icons?i=powershell" alt="powershell" />
-<img width="30em" src="https://skillicons.dev/icons?i=bash" alt="bash" />
-<img width="30em" src="https://skillicons.dev/icons?i=ts" alt="typescript" />
-<img width="30em" src="https://skillicons.dev/icons?i=js" alt="javascript" />
-<img width="30em" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
-<img width="30em" src="https://skillicons.dev/icons?i=lua" alt="lua" />
-<img width="30em" src="https://skillicons.dev/icons?i=java" alt="java" />
-<img width="30em" src="https://skillicons.dev/icons?i=py" alt="python" />
-<img width="30em" src="https://skillicons.dev/icons?i=latex" alt="latex" />
-<img width="30em" src="https://skillicons.dev/icons?i=md" alt="markdown" />
-<img width="30em" src="https://skillicons.dev/icons?i=regex" alt="regex" />
-<img width="30em" src="https://skillicons.dev/icons?i=html" alt="html" />
-<img width="30em" src="https://skillicons.dev/icons?i=css" alt="css" />
-<img width="30em" src="https://skillicons.dev/icons?i=sass" alt="sass" />
-<img width="30em" src="https://skillicons.dev/icons?i=styledcomponents" alt="styled components" />
-<img width="30em" src="https://skillicons.dev/icons?i=emotion" alt="emotion" />
-<img width="30em" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" />
-
-</center>
-</td>
-
-
-<td width="30%" height="100%">
-<br>
-<center>
-
-<img width="30em" src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" />
-<img width="30em" src="https://skillicons.dev/icons?i=docker" alt="docker" />
-<img width="30em" src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" />
-<img width="30em" src="https://skillicons.dev/icons?i=git" alt="git" />
-<img width="30em" src="https://skillicons.dev/icons?i=github" alt="github" />
-<img width="30em" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" />
-<img width="30em" src="https://skillicons.dev/icons?i=godot" alt="godot" />
-<img width="30em" src="https://skillicons.dev/icons?i=unity" alt="unity" />
-<img width="30em" src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
-<img width="30em" src="https://skillicons.dev/icons?i=heroku" alt="heroku" />
-<img width="30em" src="https://skillicons.dev/icons?i=react" alt="react" />
-<img width="30em" src="https://skillicons.dev/icons?i=vue" alt="vue" />
-<img width="30em" src="https://skillicons.dev/icons?i=svelte" alt="svelte" />
-<img width="30em" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
-<img width="30em" src="https://skillicons.dev/icons?i=astro" alt="astro" />
-<img width="30em" src="https://skillicons.dev/icons?i=vite" alt="vite" />
-<img width="30em" src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" />
-<img width="30em" src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" />
-<img width="30em" src="https://skillicons.dev/icons?i=express" alt="express" />
-<img width="30em" src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
-<img width="30em" src="https://skillicons.dev/icons?i=postman" alt="postman" />
-
-</center>
-</td>
-
-
-<td width="30%" height="100%">
-<br>
-<center>
-
-<img width="30em" src="https://skillicons.dev/icons?i=linux" alt="plinux" />
-<img width="30em" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macos" />
-<img width="30em" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" />
-<img width="30em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" />
-<img width="30em" src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" alt="kali" />
-<img width="30em" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" />
-<img width="30em" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" />
-
-</center>
-</td>
-
-<br />
+## <strong><span style="color: #4aa5f0">Tech Stack</span></strong>
+<table>
+  <tbody>
+    <tr>
+      <th style="color: #f0a45d" align="center">Languages</th>
+      <th style="color: #4dc4ff" align="center">Tools</th>
+      <th style="color: #4cd1e0" align="center">Systems</th>
+    </tr>
+    <tr>
+     <!-- Languages -->
+      <td width="33.33%" height="100%" style="text-align: center; align-content: center; align-items: center; justify-content: center;">
+        <img width="30em" src="https://skillicons.dev/icons?i=c" alt="c" />
+        <img width="30em" src="https://skillicons.dev/icons?i=cpp" alt="cpp" />
+        <img width="30em" src="https://skillicons.dev/icons?i=cs" alt="c-sharp" />
+        <img width="30em" src="https://skillicons.dev/icons?i=cmake" alt="cmake" />
+        <img width="30em" src="https://skillicons.dev/icons?i=go" alt="go" />
+        <img width="30em" src="https://skillicons.dev/icons?i=rust" alt="rust" />
+        <img width="30em" src="https://skillicons.dev/icons?i=haskell" alt="haskell" />
+        <img width="30em" src="https://skillicons.dev/icons?i=powershell" alt="powershell" />
+        <img width="30em" src="https://skillicons.dev/icons?i=bash" alt="bash" />
+        <img width="30em" src="https://skillicons.dev/icons?i=ts" alt="typescript" />
+        <img width="30em" src="https://skillicons.dev/icons?i=js" alt="javascript" />
+        <img width="30em" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+        <img width="30em" src="https://skillicons.dev/icons?i=lua" alt="lua" />
+        <img width="30em" src="https://skillicons.dev/icons?i=java" alt="java" />
+        <img width="30em" src="https://skillicons.dev/icons?i=py" alt="python" />
+        <img width="30em" src="https://skillicons.dev/icons?i=latex" alt="latex" />
+        <img width="30em" src="https://skillicons.dev/icons?i=md" alt="markdown" />
+        <img width="30em" src="https://skillicons.dev/icons?i=regex" alt="regex" />
+        <img width="30em" src="https://skillicons.dev/icons?i=html" alt="html" />
+        <img width="30em" src="https://skillicons.dev/icons?i=css" alt="css" />
+        <img width="30em" src="https://skillicons.dev/icons?i=sass" alt="sass" />
+        <img width="30em" src="https://skillicons.dev/icons?i=styledcomponents" alt="styled components" />
+        <img width="30em" src="https://skillicons.dev/icons?i=emotion" alt="emotion" />
+        <img width="30em" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" />
+      </td>
+      <!-- Tools -->
+      <td width="33.33%" height="100%" style="text-align: center; align-content: center; align-items: center; justify-content: center;">
+        <img width="30em" src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" />
+        <img width="30em" src="https://skillicons.dev/icons?i=docker" alt="docker" />
+        <img width="30em" src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" />
+        <img width="30em" src="https://skillicons.dev/icons?i=git" alt="git" />
+        <img width="30em" src="https://skillicons.dev/icons?i=github" alt="github" />
+        <img width="30em" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" />
+        <img width="30em" src="https://skillicons.dev/icons?i=godot" alt="godot" />
+        <img width="30em" src="https://skillicons.dev/icons?i=unity" alt="unity" />
+        <img width="30em" src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
+        <img width="30em" src="https://skillicons.dev/icons?i=heroku" alt="heroku" />
+        <img width="30em" src="https://skillicons.dev/icons?i=react" alt="react" />
+        <img width="30em" src="https://skillicons.dev/icons?i=vue" alt="vue" />
+        <img width="30em" src="https://skillicons.dev/icons?i=svelte" alt="svelte" />
+        <img width="30em" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+        <img width="30em" src="https://skillicons.dev/icons?i=astro" alt="astro" />
+        <img width="30em" src="https://skillicons.dev/icons?i=vite" alt="vite" />
+        <img width="30em" src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" />
+        <img width="30em" src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" />
+        <img width="30em" src="https://skillicons.dev/icons?i=express" alt="express" />
+        <img width="30em" src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
+        <img width="30em" src="https://skillicons.dev/icons?i=postman" alt="postman" />
+      </td>
+      <!-- Systems -->
+      <td width="33.33%" height="100%" style="text-align: center; align-content: center; align-items: center; justify-content: center;">
+        <img width="30em" src="https://skillicons.dev/icons?i=linux" alt="plinux" />
+        <img width="30em" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macos" />
+        <img width="30em" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" />
+        <img width="30em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" />
+        <img width="30em" src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" alt="kali" />
+        <img width="30em" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" />
+        <img width="30em" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" />
+      </td>
+    </tr>
+  </tbody>
 </table>
-<!-- </p> -->
-<!-- <a display="inline-block" href="https://wakatime.com/@draxel">
-<img
-  with="100%"
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=draxel&api_domain=wakatime.com&layout=compact&langs_count=18&border_radius=0&hide_border=true&theme=onedark&bg_color=00000000" />
-</a> -->
-
-<!-- <img
-  src="https://metrics.lecoq.io/drakeaxelrod?template=classic"
-/> -->
-
-<!-- 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) -->
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
