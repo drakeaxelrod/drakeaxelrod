@@ -114,7 +114,68 @@ foreground        #abb2bf
   />
   </a>
 </p>
-
+<div align="center">
+  <a
+    href="https://www.linkedin.com/in/drakeaxelrod"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: none; color: black">
+      <picture >
+        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="LinkedIn" style="display: inline-block;" />
+      </picture>
+  </a>
+  <a
+    href="https://github.com/DrakeAxelrod"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: none; color: black">
+      <picture>
+        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="Github" style="display: inline-block;" />
+      </picture>
+  </a>
+  <a
+    href="https://wa.me/4242099756"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: none; color: black">
+      <picture>
+        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/WhatsApp_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/WhatsApp_black.png?raw=true" alt="WhatsApp" style="display: inline-block;" />
+      </picture>
+  </a>
+  <a
+    href="https://www.facebook.com/drakeaxelrod"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: none; color: black">
+      <picture>
+        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" alt="Facebook" style="display: inline-block;" />
+      </picture>
+  </a>
+  <a
+    href="https://www.instagram.com/drakeaxelrod"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: none; color: black">
+      <picture>
+        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png?raw=true" alt="Instagram" style="display: inline-block;" />
+      </picture>
+  </a>
+  <a
+    href="https://x.com/DrakeAxelrod"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: none; color: black">
+      <picture>
+        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
+        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true" alt="Twitter" style="display: inline-block;" />
+      </picture>
+  </a>
+</div>
 <br>
 
 ## <strong><span style="color: #4aa5f0">About me</span></strong>
