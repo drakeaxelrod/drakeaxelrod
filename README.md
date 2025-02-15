@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; flex-direction: column;">
+<!-- <div align="center" style="display: flex; flex-direction: column;">
   <div style="position: relative; width: 100%;">
     <div style="position: absolute; top: 0; right: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none;">
       <img src="/assets/webp/calc.webp" alt="Background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.2; border-radius: 0.5em;" />
@@ -77,7 +77,43 @@
         </picture>
     </a>
   </div>
-</div>
+</div> -->
+
+
+<!-- Theme
+Black             #3f4451
+Blue              #4aa5f0
+BrightBlack       #4f5666
+BrightBlue        #4dc4ff
+BrightCyan        #4cd1e0
+BrightGreen       #a5e075
+BrightMagenta     #de73ff
+BrightRed         #ff616e
+BrightWhite       #e6e6e6
+BrightYellow      #f0a45d
+Cyan              #42b3c2
+Green             #8cc265
+Magenta           #c162de
+Red               #e05561
+White             #d7dae0
+Yellow            #d18f52
+background        #23272e
+border            #3e4452
+foreground        #abb2bf
+-->
+
+<a href="https://wakatime.com/@2e691040-ef42-42f0-bba3-2079a6d4ceee"><img align="right" src="https://wakatime.com/badge/user/2e691040-ef42-42f0-bba3-2079a6d4ceee.svg?style=for-the-badge" alt="Total time coded since Feb 23 2022" /></a>
+
+<img src="/assets/svgs/hacker.svg" alt="Hacker" style="width: 100%" />
+
+<p align="center" float="left">
+  <a align="center" float="left" href="https://drakeaxelrod.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="/assets/svgs/name.svg"
+    alt="Drake Axelrod"
+  />
+  </a>
+</p>
 
 <br>
 
