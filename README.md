@@ -132,12 +132,12 @@ My name is Drake and I am cybersecurity professional specializing in offensive s
 <p align="center" float="left">
   <img
     align="center"
-    height="190"
+    width="50%"
     src="https://github-readme-stats.vercel.app/api?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff00&bg_color=23272e00&text_color=a5e075&ring_color=4cd1e0&border_radius=15&locale=en&rank_icon=default&line_height=30&text_bold=true&number_format=long&hide_title=true"
     alt="Drake Axelrod's GitHub Stats"
   /><img
     align="center"
-    height="190"
+    width="50%"
     src="https://github-readme-streak-stats-eight.vercel.app?user=drakeaxelrod&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=de73ff00&stroke=de73ff&fire=ff616e&ring=4cd1e0&sideNums=a5e075&currStreakNum=a5e075&currStreakLabel=ff616e&sideLabels=4dc4ff&dates=f0a45d&border_radius=15"
     alt="Drake Axelrod's GitHub Streak"
   />
