@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Offensive Security Consultant at QESTIT</b> · Malmö, Sweden<br/>
+  <b>Offensive Security Consultant</b> · Malmö, Sweden<br/>
   Penetration testing across web apps, APIs, Active Directory, cloud, IoT and mobile.
 </p>
 
