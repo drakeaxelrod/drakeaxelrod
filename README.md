@@ -77,8 +77,6 @@ I came to security through software engineering, and it still shapes how I work:
 | [portal_c2_demo](https://github.com/drakeaxelrod/portal_c2_demo) | Command and control framework demo in Go, gRPC and Wails |
 | [cvss.typ](https://github.com/drakeaxelrod/cvss.typ) · [cvssc](https://github.com/drakeaxelrod/cvssc) | Typst packages that calculate CVSS 2.0, 3.x and 4.0 scores for reports |
 | [ArchPenMachineStrapper](https://github.com/drakeaxelrod/ArchPenMachineStrapper) | Bootstraps an Arch Linux penetration testing machine from one config file |
-| [thieves-tools](https://github.com/drakeaxelrod/thieves-tools) | Notes on pentest tools plus reusable scripts |
-| [json-resume-service](https://github.com/drakeaxelrod/json-resume-service) | Generates resumes from the JSON Resume schema |
 
 ## Toolbox
 
