@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Offensive Security Consultant at QESTIT</b> · Malmö, Sweden<br/>
+  <b>Offensive Security Consultant</b> · Malmö, Sweden<br/>
   Penetration testing across web apps, APIs, Active Directory, cloud, IoT and mobile.
 </p>
 
@@ -76,9 +76,6 @@ I came to security through software engineering, and it still shapes how I work:
 | [dev-console-ptest-script](https://github.com/drakeaxelrod/dev-console-ptest-script) | Penetration testing helpers you load straight into the browser dev console |
 | [portal_c2_demo](https://github.com/drakeaxelrod/portal_c2_demo) | Command and control framework demo in Go, gRPC and Wails |
 | [cvss.typ](https://github.com/drakeaxelrod/cvss.typ) · [cvssc](https://github.com/drakeaxelrod/cvssc) | Typst packages that calculate CVSS 2.0, 3.x and 4.0 scores for reports |
-| [ArchPenMachineStrapper](https://github.com/drakeaxelrod/ArchPenMachineStrapper) | Bootstraps an Arch Linux penetration testing machine from one config file |
-| [thieves-tools](https://github.com/drakeaxelrod/thieves-tools) | Notes on pentest tools plus reusable scripts |
-| [json-resume-service](https://github.com/drakeaxelrod/json-resume-service) | Generates resumes from the JSON Resume schema |
 
 ## Toolbox
 
