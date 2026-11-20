@@ -1,310 +1,96 @@
-<!-- <div align="center" style="display: flex; flex-direction: column;">
-  <div style="position: relative; width: 100%;">
-    <div style="position: absolute; top: 0; right: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none;">
-      <img src="/assets/webp/calc.webp" alt="Background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.2; border-radius: 0.5em;" />
-    </div>
-    <img src="/assets/svgs/hacker.svg" alt="Hacker" style="width: 100%; z-index: 100; position: relative; top: 0;" />
-    <a href="https://drakeaxelrod.com" target="_blank" rel="noopener noreferrer">
-    <img
-      src="/assets/svgs/name.svg"
-      alt="Drake Axelrod"
-      width="20px"
-      style="z-index: 100; position: relative; top: -2em; width: 30%;"
-    />
-    </a>
-  <img height="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff00&bg_color=23272e00&text_color=a5e075&langs_count=18&layout=donut-vertical&border_radius=15&hide_title=true" style="position: absolute; top: 0; right: 0; opacity: 1;" />
-  </div>
-  <div
-    style="margin: auto 0; width: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: start; position: absolute; z-index: 100; padding: 1em">
-    <a
-      href="https://www.linkedin.com/in/drakeaxelrod"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="text-decoration: none; color: black">
-        <picture >
-          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="LinkedIn" style="display: inline-block;" />
-        </picture>
-    </a>
-    <a
-      href="https://github.com/DrakeAxelrod"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="text-decoration: none; color: black">
-        <picture>
-          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="Github" style="display: inline-block;" />
-        </picture>
-    </a>
-    <a
-      href="https://wa.me/4242099756"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="text-decoration: none; color: black">
-        <picture>
-          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/WhatsApp_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/WhatsApp_black.png?raw=true" alt="WhatsApp" style="display: inline-block;" />
-        </picture>
-    </a>
-    <a
-      href="https://www.facebook.com/drakeaxelrod"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="text-decoration: none; color: black">
-        <picture>
-          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" alt="Facebook" style="display: inline-block;" />
-        </picture>
-    </a>
-    <a
-      href="https://www.instagram.com/drakeaxelrod"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="text-decoration: none; color: black">
-        <picture>
-          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png?raw=true" alt="Instagram" style="display: inline-block;" />
-        </picture>
-    </a>
-    <a
-      href="https://x.com/DrakeAxelrod"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="text-decoration: none; color: black">
-        <picture>
-          <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-          <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true" alt="Twitter" style="display: inline-block;" />
-        </picture>
-    </a>
-  </div>
-</div> -->
-
-
-<!-- Theme
-Black             #3f4451
-Blue              #4aa5f0
-BrightBlack       #4f5666
-BrightBlue        #4dc4ff
-BrightCyan        #4cd1e0
-BrightGreen       #a5e075
-BrightMagenta     #de73ff
-BrightRed         #ff616e
-BrightWhite       #e6e6e6
-BrightYellow      #f0a45d
-Cyan              #42b3c2
-Green             #8cc265
-Magenta           #c162de
-Red               #e05561
-White             #d7dae0
-Yellow            #d18f52
-background        #23272e
-border            #3e4452
-foreground        #abb2bf
--->
-
 <a href="https://wakatime.com/@2e691040-ef42-42f0-bba3-2079a6d4ceee"><img align="right" src="https://wakatime.com/badge/user/2e691040-ef42-42f0-bba3-2079a6d4ceee.svg?style=for-the-badge" alt="Total time coded since Feb 23 2022" /></a>
 
-<img src="/assets/svgs/hacker.svg" alt="Hacker" style="width: 100%" />
+<a href="https://drakeaxelrod.dev"><img src="/assets/svgs/hacker.svg" alt="I break systems so you don't have to" width="100%" /></a>
 
-<p align="center" float="left">
-  <a align="center" float="left" href="https://drakeaxelrod.com" target="_blank" rel="noopener noreferrer">
-  <img
-    src="/assets/svgs/name.svg"
-    alt="Drake Axelrod"
-  />
-  </a>
+<p align="center">
+  <a href="https://drakeaxelrod.dev"><img src="/assets/svgs/name.svg" alt="Drake Axelrod" /></a>
 </p>
-<div align="center">
-  <a
-    href="https://www.linkedin.com/in/drakeaxelrod"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="text-decoration: none; color: black">
-      <picture >
-        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="LinkedIn" style="display: inline-block;" />
-      </picture>
-  </a>
-  <a
-    href="https://github.com/DrakeAxelrod"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="text-decoration: none; color: black">
-      <picture>
-        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="Github" style="display: inline-block;" />
-      </picture>
-  </a>
-  <a
-    href="https://wa.me/4242099756"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="text-decoration: none; color: black">
-      <picture>
-        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/WhatsApp_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/WhatsApp_black.png?raw=true" alt="WhatsApp" style="display: inline-block;" />
-      </picture>
-  </a>
-  <a
-    href="https://www.facebook.com/drakeaxelrod"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="text-decoration: none; color: black">
-      <picture>
-        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" alt="Facebook" style="display: inline-block;" />
-      </picture>
-  </a>
-  <a
-    href="https://www.instagram.com/drakeaxelrod"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="text-decoration: none; color: black">
-      <picture>
-        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png?raw=true" alt="Instagram" style="display: inline-block;" />
-      </picture>
-  </a>
-  <a
-    href="https://x.com/DrakeAxelrod"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="text-decoration: none; color: black">
-      <picture>
-        <source srcset="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png?raw=true" media="(prefers-color-scheme: dark)" type="image/png">
-        <img width="24" height="24" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true" alt="Twitter" style="display: inline-block;" />
-      </picture>
-  </a>
-</div>
-<br>
 
-## <strong><span style="color: #4aa5f0">About me</span></strong>
+<p align="center">
+  <b>Offensive Security Consultant at QESTIT</b> · Malmö, Sweden<br/>
+  Penetration testing across web apps, APIs, Active Directory, cloud, IoT and mobile.
+</p>
+
+<p align="center">
+  <a href="https://drakeaxelrod.dev"><img src="https://img.shields.io/badge/Website-drakeaxelrod.dev-de73ff?style=flat-square" alt="Website" /></a>
+  <a href="https://drakeaxelrod.dev/notes"><img src="https://img.shields.io/badge/Notebook-100%2B_articles-4dc4ff?style=flat-square" alt="Notebook" /></a>
+  <a href="https://www.linkedin.com/in/drakeaxelrod"><img src="https://img.shields.io/badge/LinkedIn-drakeaxelrod-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/drakeaxelrod"><img src="https://img.shields.io/badge/X-@drakeaxelrod-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/drakeaxelrod/resume/raw/build/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-a5e075?style=flat-square" alt="Resume" /></a>
+</p>
+
+## About me
+
+I find vulnerabilities and simulate real attacks so organisations can fix what matters, then turn the findings into remediation that teams can actually carry out. I lead security assessments, write custom exploits and tooling, and mentor junior testers.
+
+I came to security through software engineering, and it still shapes how I work: I look at control flow and architecture before payloads. Many of the bugs I find come from understanding how a system was meant to work and where that intent breaks down.
+
+**What I work on**
+
+- **Penetration testing:** web applications, APIs, networks, Active Directory, IoT, and AWS, Azure and GCP
+- **Exploitation and post-exploitation:** privilege escalation, credential access, lateral movement, defence evasion
+- **Red teaming:** C2 infrastructure and OPSEC (Sliver, custom frameworks)
+- **Vulnerability research and tooling:** when the right tool does not exist yet, I write it in Go, Rust, Python or PowerShell
+
+## Certifications
+
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist"><img align="right" src="https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=111927" alt="HTB Certified Penetration Testing Specialist" /></a>
+
+- **CPTS**, Certified Penetration Testing Specialist (Hack The Box, 2025)
+- **MCRTA**, Multi-Cloud Red Teaming Analyst (CyberWarfare Labs, 2025)
+- **CyberOps Associate** (Cisco, 2021)
+- **BSc Software Engineering**, University of Gothenburg (2023)
+
+## Research
+
+- 🏆 **Best Paper Award**, IEEE International Conference on Software Engineering (ICSE), 2024
+- **Empowering Software Engineers to Design More Secure Web Applications: Guidelines and Potential of Using LLMs as a Recommender Tool.** R. Groner, K. Svensson, D. Axelrod, R. Khojah, M. Mohamad, R. Wohlrab. *Journal of Software: Evolution and Process*, 2026. [doi:10.1002/smr.70083](https://doi.org/10.1002/smr.70083)
+- **Guidelines for Supporting Software Engineers in Developing Secure Web Applications.** K. Svensson, D. Axelrod, M. Mohamad, R. Wohlrab. *Product-Focused Software Process Improvement (PROFES)*, 2025. [doi:10.1007/978-3-031-78386-9_9](https://doi.org/10.1007/978-3-031-78386-9_9)
+
+## The notebook
+
+[**Ramblings of a Professional Hacker**](https://drakeaxelrod.dev/notes) is my working reference for offensive security: methodology, tooling and techniques, written the way I would explain them to a colleague. Everything is anonymised and NDA compliant.
+
+| Area | What is in there |
+| --- | --- |
+| [Active Directory](https://drakeaxelrod.dev/notes/active-directory) | [Kerberoasting](https://drakeaxelrod.dev/notes/active-directory/kerberoasting), [AS-REP roasting](https://drakeaxelrod.dev/notes/active-directory/asrep-roasting), [NTLM relay](https://drakeaxelrod.dev/notes/active-directory/ntlm-relay), [ACL abuse](https://drakeaxelrod.dev/notes/active-directory/acl-abuse), [KrbRelayUp](https://drakeaxelrod.dev/notes/active-directory/krbrelayup), silver tickets, DNSAdmins |
+| [Windows](https://drakeaxelrod.dev/notes/windows) | [SeImpersonate](https://drakeaxelrod.dev/notes/windows/seimpersonate-privilege), [BYOVD](https://drakeaxelrod.dev/notes/windows/byovd), [PrintNightmare](https://drakeaxelrod.dev/notes/windows/printnightmare), service hijacking, DLL injection, privileged groups |
+| [Linux](https://drakeaxelrod.dev/notes/linux) | [sudo misconfigurations](https://drakeaxelrod.dev/notes/linux/sudo-misconfigurations), [capabilities](https://drakeaxelrod.dev/notes/linux/capabilities), [wildcard abuse](https://drakeaxelrod.dev/notes/linux/wildcard-abuse), shared object and Python library hijacking, kernel exploits |
+| [Web](https://drakeaxelrod.dev/notes/web) | [SQL injection](https://drakeaxelrod.dev/notes/web/sql-injection), [business logic flaws](https://drakeaxelrod.dev/notes/web/business-logic-flaws), [insecure deserialization](https://drakeaxelrod.dev/notes/web/insecure-deserialization), [host header poisoning](https://drakeaxelrod.dev/notes/web/host-header-poisoning), API security, auth bypass |
+| [Cloud](https://drakeaxelrod.dev/notes/cloud) | AWS, Azure and Entra ID, and GCP assessment and IAM privilege escalation |
+| [Mobile](https://drakeaxelrod.dev/notes/mobile) | Android and iOS app analysis, [Frida](https://drakeaxelrod.dev/notes/mobile/frida), Objection, [SSL pinning bypass](https://drakeaxelrod.dev/notes/mobile/ssl-pinning-bypass) |
+| [Network](https://drakeaxelrod.dev/notes/network) | SMB, SSH, RDP, DNS, SMTP, FTP, WebDAV and SQL services |
+| [Tools](https://drakeaxelrod.dev/notes/tools) | [BloodHound](https://drakeaxelrod.dev/notes/tools/bloodhound), [Impacket](https://drakeaxelrod.dev/notes/tools/impacket), [NetExec](https://drakeaxelrod.dev/notes/tools/netexec), [Sliver](https://drakeaxelrod.dev/notes/tools/sliver), [Ligolo-ng](https://drakeaxelrod.dev/notes/tools/ligolo-ng), Mimikatz, Hashcat |
+| More | [Containers](https://drakeaxelrod.dev/notes/containers), [defence evasion](https://drakeaxelrod.dev/notes/evasion), [AI security](https://drakeaxelrod.dev/notes/ai), [macOS](https://drakeaxelrod.dev/notes/macos) |
+
+## Tools I've built
+
+| Project | What it does |
+| --- | --- |
+| [suidchk](https://github.com/drakeaxelrod/suidchk) | Rust CLI that finds SUID binaries and shows how each one could be used for privilege escalation |
+| [Invoke-CheckServiceHijack](https://github.com/drakeaxelrod/Invoke-CheckServiceHijack) | PowerShell audit for Windows services whose executables are writable by Everyone |
+| [dev-console-ptest-script](https://github.com/drakeaxelrod/dev-console-ptest-script) | Penetration testing helpers you load straight into the browser dev console |
+| [portal_c2_demo](https://github.com/drakeaxelrod/portal_c2_demo) | Command and control framework demo in Go, gRPC and Wails |
+| [cvss.typ](https://github.com/drakeaxelrod/cvss.typ) · [cvssc](https://github.com/drakeaxelrod/cvssc) | Typst packages that calculate CVSS 2.0, 3.x and 4.0 scores for reports |
+| [ArchPenMachineStrapper](https://github.com/drakeaxelrod/ArchPenMachineStrapper) | Bootstraps an Arch Linux penetration testing machine from one config file |
+| [thieves-tools](https://github.com/drakeaxelrod/thieves-tools) | Notes on pentest tools plus reusable scripts |
+| [json-resume-service](https://github.com/drakeaxelrod/json-resume-service) | Generates resumes from the JSON Resume schema |
+
+## Toolbox
 
 <p>
-My name is Drake and I am cybersecurity professional specializing in offensive security and vulnerability assessment. With a strong foundation in ethical hacking and software engineering, I identify and mitigate security risks across diverse environments, ensuring robust defenses against evolving cyber threats (you can get my resume <a href="https://github.com/drakeaxelrod/resume/raw/refs/heads/main/out/resume.pdf">here</a>).
+  <img src="https://skillicons.dev/icons?i=py,go,rust,c,cpp,cs,powershell,bash,ts,lua,nix&perline=11" alt="Languages: Python, Go, Rust, C, C++, C#, PowerShell, Bash, TypeScript, Lua, Nix" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,aws,azure,gcp,docker,kubernetes,git,neovim&perline=11" alt="Platforms: Linux, Arch, AWS, Azure, GCP, Docker, Kubernetes, Git, Neovim" />
 </p>
 
-<!-- <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff&bg_color=23272e&text_color=a5e075&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&border_radius=15" /> -->
+Burp Suite · Metasploit · Sliver · BloodHound · Impacket · NetExec · Responder · Nmap · Wireshark · Nessus · SQLMap · Hashcat · John the Ripper
 
-## <strong><span style="color: #4aa5f0">Github Statistics</span></strong>
+Frameworks I map work to: OWASP, MITRE ATT&CK, NIST, CVSS, CWE, CAPEC
 
-<!-- <div float="left" align="center" style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; border: 1px solid #de73ff; border-radius: 0.5em; padding: 1em;"> -->
-<!-- https://github-readme-stats.vercel.app/api?username=drakeaxelrod&show_icons=true&theme=transparent&title_color=4dc4ff&icon_color=de73ff&border_color=de73ff00&bg_color=23272e00&text_color=a5e075&ring_color=4cd1e0&border_radius=15&locale=en&rank_icon=default&line_height=30&text_bold=true&number_format=long&hide_title=true -->
-<!-- <p align="center" float="left">
-  <img
-    align="center"
-    width="50%"
-    src="https://githubcard.com/drakeaxelrod.svg?d=qj4Z-cWb"
-    alt="Drake Axelrod's GitHub Stats"
-  /><img
-    align="center"
-    width="50%"
-    src="https://github-readme-streak-stats-eight.vercel.app?user=drakeaxelrod&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=de73ff00&stroke=de73ff&fire=ff616e&ring=4cd1e0&sideNums=a5e075&currStreakNum=a5e075&currStreakLabel=ff616e&sideLabels=4dc4ff&dates=f0a45d&border_radius=15"
-    alt="Drake Axelrod's GitHub Streak"
-  />
-</p> -->
-<img
-    align="center"
-    width="100%"
-    src="https://github-readme-streak-stats-eight.vercel.app?user=drakeaxelrod&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=de73ff00&stroke=de73ff&fire=ff616e&ring=4cd1e0&sideNums=a5e075&currStreakNum=a5e075&currStreakLabel=ff616e&sideLabels=4dc4ff&dates=f0a45d&border_radius=15"
-    alt="Drake Axelrod's GitHub Streak"
-  />
+## Activity
 
-<!-- </div> -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=drakeaxelrod&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=de73ff00&stroke=de73ff&fire=ff616e&ring=4cd1e0&sideNums=a5e075&currStreakNum=a5e075&currStreakLabel=ff616e&sideLabels=4dc4ff&dates=f0a45d&border_radius=15" alt="GitHub streak" width="100%" />
 
-<!-- ![](profile-3d-contrib/profile-night-rainbow.svg) -->
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="profile-3d-contrib" style="width: 100%" />
-
-<!-- ## <strong><span style="color: #4aa5f0">Experience & Skills</span></strong>
-
-- Penetration Testing & Ethical Hacking: Assessing and fortifying web applications, APIs, networks, software, embedded systems, and Active Directory.
-- Security Research & Development: Award-winning researcher in secure web application development, with a published paper recognized for its contributions to improving software security. Continuously contributing to best security practices.
-- Certifications: CPTS (Certified Penetration Testing Specialist), CyberOps Associate (Cisco), CompTIA Network+.
-- Cloud & Network Security: Proficient in securing cloud infrastructures, analyzing network protocols, and mitigating attack surfaces.
-- Automation & Secure Software: Developing security tools in Rust and PowerShell, streamlining security workflows, and automating penetration testing methodologies. -->
-
-## <strong><span style="color: #4aa5f0">Certifications</span></strong>
-
-<a href="https://academy.hackthebox.com/achievement/badge/ee14298d-de2e-11ef-864f-bea50ffe6cb4" target="_blank" alt="HTB Certified Penetration Testing Specialist">
-<img height="128" width="128" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="HTB Certified Penetration Testing Specialist" />
-</a>
-
-## <strong><span style="color: #4aa5f0">Tech Stack</span></strong>
-<table>
-  <tbody>
-    <tr>
-      <th style="color: #f0a45d" align="center">Languages</th>
-      <th style="color: #4dc4ff" align="center">Tools</th>
-      <th style="color: #4cd1e0" align="center">Systems</th>
-    </tr>
-    <tr>
-     <!-- Languages -->
-      <td width="33.33%" height="100%" style="text-align: center; align-content: center; align-items: center; justify-content: center;">
-        <img width="30em" src="https://skillicons.dev/icons?i=c" alt="c" />
-        <img width="30em" src="https://skillicons.dev/icons?i=cpp" alt="cpp" />
-        <img width="30em" src="https://skillicons.dev/icons?i=cs" alt="c-sharp" />
-        <img width="30em" src="https://skillicons.dev/icons?i=cmake" alt="cmake" />
-        <img width="30em" src="https://skillicons.dev/icons?i=go" alt="go" />
-        <img width="30em" src="https://skillicons.dev/icons?i=rust" alt="rust" />
-        <img width="30em" src="https://skillicons.dev/icons?i=haskell" alt="haskell" />
-        <img width="30em" src="https://skillicons.dev/icons?i=powershell" alt="powershell" />
-        <img width="30em" src="https://skillicons.dev/icons?i=bash" alt="bash" />
-        <img width="30em" src="https://skillicons.dev/icons?i=ts" alt="typescript" />
-        <img width="30em" src="https://skillicons.dev/icons?i=js" alt="javascript" />
-        <img width="30em" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
-        <img width="30em" src="https://skillicons.dev/icons?i=lua" alt="lua" />
-        <img width="30em" src="https://skillicons.dev/icons?i=java" alt="java" />
-        <img width="30em" src="https://skillicons.dev/icons?i=py" alt="python" />
-        <img width="30em" src="https://skillicons.dev/icons?i=latex" alt="latex" />
-        <img width="30em" src="https://skillicons.dev/icons?i=md" alt="markdown" />
-        <img width="30em" src="https://skillicons.dev/icons?i=regex" alt="regex" />
-        <img width="30em" src="https://skillicons.dev/icons?i=html" alt="html" />
-        <img width="30em" src="https://skillicons.dev/icons?i=css" alt="css" />
-        <img width="30em" src="https://skillicons.dev/icons?i=sass" alt="sass" />
-        <img width="30em" src="https://skillicons.dev/icons?i=styledcomponents" alt="styled components" />
-        <img width="30em" src="https://skillicons.dev/icons?i=emotion" alt="emotion" />
-        <img width="30em" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" />
-      </td>
-      <!-- Tools -->
-      <td width="33.33%" height="100%" style="text-align: center; align-content: center; align-items: center; justify-content: center;">
-        <img width="30em" src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" />
-        <img width="30em" src="https://skillicons.dev/icons?i=docker" alt="docker" />
-        <img width="30em" src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" />
-        <img width="30em" src="https://skillicons.dev/icons?i=git" alt="git" />
-        <img width="30em" src="https://skillicons.dev/icons?i=github" alt="github" />
-        <img width="30em" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" />
-        <img width="30em" src="https://skillicons.dev/icons?i=godot" alt="godot" />
-        <img width="30em" src="https://skillicons.dev/icons?i=unity" alt="unity" />
-        <img width="30em" src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
-        <img width="30em" src="https://skillicons.dev/icons?i=heroku" alt="heroku" />
-        <img width="30em" src="https://skillicons.dev/icons?i=react" alt="react" />
-        <img width="30em" src="https://skillicons.dev/icons?i=vue" alt="vue" />
-        <img width="30em" src="https://skillicons.dev/icons?i=svelte" alt="svelte" />
-        <img width="30em" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
-        <img width="30em" src="https://skillicons.dev/icons?i=astro" alt="astro" />
-        <img width="30em" src="https://skillicons.dev/icons?i=vite" alt="vite" />
-        <img width="30em" src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" />
-        <img width="30em" src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" />
-        <img width="30em" src="https://skillicons.dev/icons?i=express" alt="express" />
-        <img width="30em" src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
-        <img width="30em" src="https://skillicons.dev/icons?i=postman" alt="postman" />
-      </td>
-      <!-- Systems -->
-      <td width="33.33%" height="100%" style="text-align: center; align-content: center; align-items: center; justify-content: center;">
-        <img width="30em" src="https://skillicons.dev/icons?i=linux" alt="plinux" />
-        <img width="30em" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macos" />
-        <img width="30em" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" />
-        <img width="30em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" />
-        <img width="30em" src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" alt="kali" />
-        <img width="30em" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" />
-        <img width="30em" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
-
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
