@@ -17,6 +17,10 @@
   <a href="https://www.linkedin.com/in/drakeaxelrod"><img src="https://img.shields.io/badge/LinkedIn-drakeaxelrod-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/drakeaxelrod"><img src="https://img.shields.io/badge/X-@drakeaxelrod-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/drakeaxelrod/resume/raw/build/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-a5e075?style=flat-square" alt="Resume" /></a>
+  <br/>
+  <a href="https://hackerone.com/drakeaxelrod"><img src="https://img.shields.io/badge/HackerOne-drakeaxelrod-494649?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  <a href="https://bugcrowd.com/h/drakeaxelrod"><img src="https://img.shields.io/badge/Bugcrowd-drakeaxelrod-F26822?style=flat-square&logo=bugcrowd&logoColor=white" alt="Bugcrowd" /></a>
+  <a href="https://tryhackme.com/p/draxel"><img src="https://img.shields.io/badge/TryHackMe-draxel-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
 ## About me
