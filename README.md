@@ -82,13 +82,14 @@ I came to security through software engineering, and it still shapes how I work:
 | Area | What I work with |
 | --- | --- |
 | Web and API | Burp Suite, ffuf, SQLMap. Injection, deserialization, SSRF, access control and business logic flaws. OAuth/OIDC, SAML and JWT. |
-| Active Directory and Windows | BloodHound, Impacket, NetExec, Responder, Mimikatz, PowerView. Kerberos attacks, NTLM relay, ACL abuse and privilege escalation. |
+| Active Directory and Windows | BloodHound, Impacket, NetExec, Responder, Mimikatz, PowerView. Kerberos attacks, NTLM relay, AD CS, ACL abuse and privilege escalation. |
 | Cloud | AWS, Azure and Entra ID, GCP. IAM privilege escalation and configuration review. |
 | Mobile | Frida, Objection and MobSF on Android and iOS. Certificate pinning and attestation bypass. |
 | Red team and evasion | Sliver and custom C2 payloads. AMSI, AppLocker and EDR evasion, including BYOVD. |
 | Exploits and tooling | Go, Rust, C, C++, Python and PowerShell. |
 | Network and infrastructure | Nmap, Wireshark, Nessus, Metasploit, Ligolo-ng, Hashcat, John the Ripper. |
-| Containers | Docker and Kubernetes. |
+| Containers | Docker and Kubernetes. Container escape and hardening. |
+| AI security | Risks and security controls for LLM applications. |
 | Reporting | Typst, CVSS 3.1 and 4.0, CWE. |
 
 **Languages and platforms**
