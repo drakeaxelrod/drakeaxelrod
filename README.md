@@ -77,7 +77,21 @@ I came to security through software engineering, and it still shapes how I work:
 | [portal_c2_demo](https://github.com/drakeaxelrod/portal_c2_demo) | Command and control framework demo in Go, gRPC and Wails |
 | [cvss.typ](https://github.com/drakeaxelrod/cvss.typ) · [cvssc](https://github.com/drakeaxelrod/cvssc) | Typst packages that calculate CVSS 2.0, 3.x and 4.0 scores for reports |
 
-## Toolbox
+## Skills
+
+| Area | What I work with |
+| --- | --- |
+| Web and API | Burp Suite, ffuf, SQLMap. Injection, deserialization, SSRF, access control and business logic flaws. OAuth/OIDC, SAML and JWT. |
+| Active Directory and Windows | BloodHound, Impacket, NetExec, Responder, Mimikatz, PowerView. Kerberos attacks, NTLM relay, ACL abuse and privilege escalation. |
+| Cloud | AWS, Azure and Entra ID, GCP. IAM privilege escalation and configuration review. |
+| Mobile | Frida, Objection and MobSF on Android and iOS. Certificate pinning and attestation bypass. |
+| Red team and evasion | Sliver and custom C2 payloads. AMSI, AppLocker and EDR evasion, including BYOVD. |
+| Exploits and tooling | Go, Rust, C, C++, Python and PowerShell. |
+| Network and infrastructure | Nmap, Wireshark, Nessus, Metasploit, Ligolo-ng, Hashcat, John the Ripper. |
+| Containers | Docker and Kubernetes. |
+| Reporting | Typst, CVSS 3.1 and 4.0, CWE. |
+
+**Languages and platforms**
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,go,rust,c,cpp,cs,powershell,bash,ts,lua,nix&perline=11" alt="Languages: Python, Go, Rust, C, C++, C#, PowerShell, Bash, TypeScript, Lua, Nix" />
@@ -86,9 +100,7 @@ I came to security through software engineering, and it still shapes how I work:
   <img src="https://skillicons.dev/icons?i=linux,arch,aws,azure,gcp,docker,kubernetes,git,neovim&perline=11" alt="Platforms: Linux, Arch, AWS, Azure, GCP, Docker, Kubernetes, Git, Neovim" />
 </p>
 
-Burp Suite · Metasploit · Sliver · BloodHound · Impacket · NetExec · Responder · Nmap · Wireshark · Nessus · SQLMap · Hashcat · John the Ripper
-
-Frameworks I map work to: OWASP, MITRE ATT&CK, NIST, CVSS, CWE, CAPEC
+**Frameworks and standards:** OWASP (WSTG, ASVS, MASVS, MASTG, Top 10), MITRE ATT&CK, PTES, NIST SP 800-115, CVSS, CWE, CAPEC
 
 ## Activity
 
