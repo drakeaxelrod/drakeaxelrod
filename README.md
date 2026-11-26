@@ -47,7 +47,7 @@ I came to security through software engineering, and it still shapes how I work:
 
 ## Research
 
-- 🏆 **Best Paper Award**, IEEE International Conference on Software Engineering (ICSE), 2024
+- 🏆 **Best Research Paper Award**, PROFES 2024 (25th International Conference on Product-Focused Software Process Improvement)
 - **Empowering Software Engineers to Design More Secure Web Applications: Guidelines and Potential of Using LLMs as a Recommender Tool.** R. Groner, K. Svensson, D. Axelrod, R. Khojah, M. Mohamad, R. Wohlrab. *Journal of Software: Evolution and Process*, 2026. [doi:10.1002/smr.70083](https://doi.org/10.1002/smr.70083)
 - **Guidelines for Supporting Software Engineers in Developing Secure Web Applications.** K. Svensson, D. Axelrod, M. Mohamad, R. Wohlrab. *Product-Focused Software Process Improvement (PROFES)*, 2025. [doi:10.1007/978-3-031-78386-9_9](https://doi.org/10.1007/978-3-031-78386-9_9)
 
